@@ -27,6 +27,14 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 ![Alt](https://www.devmedia.com.br/imagens/engsoft/artigo6/image05.jpg).
 
+Tutoriais e cursos:
+
+https://www.youtube.com/watch?v=i5WR9xFKg70: Introdução completa à Engenharia de Requisitos, desde conceitos básicos até boas práticas.
+https://vemprapuc.pucminas.br/engenharia-de-requisitos: Curso prático com foco na aplicação da Engenharia de Requisitos em projetos reais.
+
+
+
+
 | Tipo de Requisito       | Descrição                                                | Exemplo                                                                          |
 |-------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------|
 | Requisito Funcional     | Descreve uma função específica que o sistema deve ter.  | O sistema deve permitir que os usuários enviem mensagens para outros usuários.  |

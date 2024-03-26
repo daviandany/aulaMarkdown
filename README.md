@@ -27,13 +27,6 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 ![Alt](https://www.devmedia.com.br/imagens/engsoft/artigo6/image05.jpg).
 
-Tutoriais e cursos:
-
-https://www.youtube.com/watch?v=i5WR9xFKg70: Introdução completa à Engenharia de Requisitos, desde conceitos básicos até boas práticas.
-https://vemprapuc.pucminas.br/engenharia-de-requisitos: Curso prático com foco na aplicação da Engenharia de Requisitos em projetos reais.
-
-
-
 
 | Tipo de Requisito       | Descrição                                                | Exemplo                                                                          |
 |-------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -42,3 +35,12 @@ https://vemprapuc.pucminas.br/engenharia-de-requisitos: Curso prático com foco 
 | Requisito de Interface  | Especifica como o sistema se comunica com os usuários. | O sistema deve ter uma interface de usuário intuitiva com botões claros.         |
 | Requisito de Usuário    | Representa as necessidades dos usuários finais.        | Os usuários devem poder acessar o sistema usando uma conta de e-mail e senha.   |
 | Requisito de Sistema    | Descreve restrições e características do ambiente.     | O sistema deve ser compatível com Windows 10 e Linux.                            |
+
+
+
+
+Tutoriais e cursos:
+
+https://www.youtube.com/watch?v=i5WR9xFKg70: Introdução completa à Engenharia de Requisitos, desde conceitos básicos até boas práticas.
+https://vemprapuc.pucminas.br/engenharia-de-requisitos: Curso prático com foco na aplicação da Engenharia de Requisitos em projetos reais.
+

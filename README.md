@@ -22,3 +22,4 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
  A engenharia de requisitos ela é definida como um processo sistemático de desenvolvimento de requisitos por meio  de um processo iterativo e cooperativo de análise de problema de documentação de observações resultantes em uma variedade de formatos de representação e de checagem da precisão do entendimento obtido.
 
 ![engenha
+![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1EE5-J8PYdylZJE9HMoAa3ItNSdW8-8aHyg&usqp=CAU)
